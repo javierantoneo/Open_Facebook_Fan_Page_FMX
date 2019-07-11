@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/06/25 15:27:45.000.180,=C:\Users\Javier Sandoval\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/08 17:33:56.000.044,=C:\Users\Javier Sandoval\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/09 08:48:48.000.443,=C:\Users\Javier Sandoval\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/11 10:19:03.830,=C:\Users\Javier Sandoval\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/11 10:21:41.971,C:\Users\Javier Sandoval\Desktop\Open_Facebook_Fan_Page_FMX\Main.fmx=C:\Users\Javier Sandoval\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/07/11 10:21:41.971,C:\Users\Javier Sandoval\Desktop\Open_Facebook_Fan_Page_FMX\Main.pas=C:\Users\Javier Sandoval\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/11 10:21:56.405,C:\Users\Javier Sandoval\Desktop\Open_Facebook_Fan_Page_FMX\Demo_App.dproj=C:\Users\Javier Sandoval\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/07/11 10:23:01.992,=C:\Users\Javier Sandoval\Desktop\Open_Facebook_Fan_Page_FMX\OpenViewUrl.pas</Transaction>
+  </Transactions>  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5" Android="18954717"/>
+  </ActiveMobileDevice>
+</BorlandProject>

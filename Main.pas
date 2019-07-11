@@ -31,7 +31,7 @@ begin
  except
    launchBrowser('https://www.facebook.com/WeClick.Digital/');
    {If Facebook App not installed then open the WebBrowser of the Phone and
-   navigate to the page}
+   navigate to the fan page}
  end;
 end;
 
